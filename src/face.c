@@ -236,6 +236,3 @@ void show_face(void) {
 void hide_face(void) {
   window_stack_remove(s_window, true);
 }
-
-
-// THE END
