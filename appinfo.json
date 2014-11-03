@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "address": 5,
+        "currservice_begin": 0,
+        "currservice_description": 4,
+        "currservice_end": 3,
+        "currservice_name": 2,
+        "currservice_station": 1,
+        "ip": 7,
+        "refresh": 6
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Palmasoft",
+    "longName": "EnigmaWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/dish.png",
+                "menuIcon": true,
+                "name": "Dish_28_28_icon",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "EnigmaWatch",
+    "uuid": "3e851c3b-4784-4543-819d-9d72e2123b17",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
